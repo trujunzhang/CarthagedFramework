@@ -1,3 +1,6 @@
+
+github "kiwi-bdd/Kiwi"              "master"  # [no framework]
+
 # github "Haneke/HanekeSwift"        "master"
 # github "facebook/pop"              "master"
 # github "Alamofire/Alamofire"       "master"
@@ -5,5 +8,6 @@
 # github "rs/SDWebImage"             "master"
 # github "Quick/Nimble"              "master"
 # github "Quick/Quick"               "master"
-github "ankurp/Dollar.swift"       "master"
+# github "ankurp/Dollar.swift"       "master"
+
 
