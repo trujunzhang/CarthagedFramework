@@ -1,5 +1,8 @@
 
+# Animation
+github "MengTo/Spring"               "master"
 
+# github "facebook/pop"              "master"
 
 # BDD
 #github "Specta/Specta"               "master"
@@ -11,7 +14,6 @@
 #github "mapbox/mapbox-ios-sdk"      "master"
 
 # github "Haneke/HanekeSwift"        "master"
-# github "facebook/pop"              "master"
 # github "Alamofire/Alamofire"       "master"
 # github "robb/Cartography"          "master"
 # github "rs/SDWebImage"             "master"
