@@ -9,16 +9,20 @@ github "MengTo/Spring"               "master"
 #github "Specta/Expecta"               "master"
 #github "erikdoe/ocmock"               "master" # [only Mac framework]
 #github "kiwi-bdd/Kiwi"              "master"  # [no framework]
+# github "Quick/Nimble"              "master"
+# github "Quick/Quick"               "master"
 
 # other
 #github "mapbox/mapbox-ios-sdk"      "master"
 
-# github "Haneke/HanekeSwift"        "master"
+# cache
+# github "rs/SDWebImage"             "master"   #
+# github "Haneke/HanekeSwift"        "master"   #[swift image cache]
+
 # github "Alamofire/Alamofire"       "master"
 # github "robb/Cartography"          "master"
-# github "rs/SDWebImage"             "master"
-# github "Quick/Nimble"              "master"
-# github "Quick/Quick"               "master"
+
+## toolkit
 # github "ankurp/Dollar.swift"       "master"
 
 
